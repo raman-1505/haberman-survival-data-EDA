@@ -21,10 +21,10 @@ This project is descriptive only. It does not use machine learning or make medic
 
 | Column | Description |
 |---|---|
-| Age at Operation | Age of patient at operation |
-| YOO | Year of operation |
-| Positive AN | Number of positive axillary nodes |
-| Survival Status | Recorded survival-status category |
+| age | Age of patient at operation |
+| operation_year | Year of operation |
+| positive_axillary_node | Number of positive axillary nodes |
+| survival_status | Recorded survival-status category |
 
 ## Tasks Performed
 
