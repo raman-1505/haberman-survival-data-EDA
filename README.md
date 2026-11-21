@@ -73,7 +73,7 @@ pip install pandas numpy matplotlib
 3. Run the python file
 python haberman_survival_eda.py
 
-
+```
 ## Observations
 
 1. Survival status category 1 contains more records than category 2.
